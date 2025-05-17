@@ -1,0 +1,33 @@
+
+{
+    "name":"Nohemy vergara",
+    "aboutMe":"Soy nohemy Vergara, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando 7mo semestre en la UNELLEZ. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo [Menciona tus áreas de interés, por ejemplo: desarrollo web, inteligencia artificial, ciberseguridad].",
+    "softSkills":[
+        "Liderazgo",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "Python",
+        "Javascript",
+        "HTML/CSS",
+    ],
+    "experience":[
+        {
+            "organization":"UNELLEZ",
+            "role":"estudiante",
+            "since":2021,
+            "description":"Estudiante de informatica"
+        }
+    ],
+    "projects":[
+        
+    ],
+    "contact":[
+        {"name":"Github",
+        "url":"https://github.com/NohemiVergara",
+        "icon":"mdiGithub"
+        }
+    ]
+}
